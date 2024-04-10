@@ -38,6 +38,10 @@ The Arduino Integrated development Environment  or Arduino Software (IDE) -conta
 
 It connects to the Arduino and Genuino hardware to upload programs and communicate with them.
 
+# HARDWARE REQUIRED --->
+
+
+
 
 
 

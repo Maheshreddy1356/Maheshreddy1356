@@ -48,6 +48,14 @@ NODEMCU(ESP8266):
 
 SOIL MOISTURE SENSOR:
 
+[
+![image](https://github.com/Maheshreddy1356/Smart-Farming-based-on-IOT-for-efiicient-crop-growth/assets/123810091/9a389684-0746-435d-85be-c795d1c8de6f)
+](url)
+
+ULTRASONIC SENSOR:
+
+
+
 
 
 

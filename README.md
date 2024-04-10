@@ -40,6 +40,16 @@ It connects to the Arduino and Genuino hardware to upload programs and communica
 
 # HARDWARE REQUIRED --->
 
+NODEMCU(ESP8266):
+
+[
+![image](https://github.com/Maheshreddy1356/Smart-Farming-based-on-IOT-for-efiicient-crop-growth/assets/123810091/40c4a822-53cf-471a-841c-b89472296d0f)
+](url)
+
+SOIL MOISTURE SENSOR:
+
+
+
 
 
 

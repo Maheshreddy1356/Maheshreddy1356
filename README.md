@@ -28,6 +28,10 @@ This system presents a  solution to enhance crop yield by enabling efficient and
 
 # SOFTWARE REQUIRED --->
 
+[
+![image](https://github.com/Maheshreddy1356/Smart-Farming-based-on-IOT-for-efiicient-crop-growth/assets/123810091/0cad579a-f50e-41cf-b4c4-0bc010d2f142)
+](url)
+
 
 
 

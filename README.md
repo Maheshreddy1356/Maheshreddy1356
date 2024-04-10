@@ -12,6 +12,10 @@ Farmers receive real-time alerts about unfavourable conditions,enhancing crop ma
 
 # DOMAIN --->
 
+[
+![image](https://github.com/Maheshreddy1356/Smart-Farming-based-on-IOT-for-efiicient-crop-growth/assets/123810091/255940c3-c31b-4ffe-a655-d3b7d90bf3c5)
+](url)
+
 
 
 

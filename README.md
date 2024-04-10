@@ -16,6 +16,20 @@ Farmers receive real-time alerts about unfavourable conditions,enhancing crop ma
 ![image](https://github.com/Maheshreddy1356/Smart-Farming-based-on-IOT-for-efiicient-crop-growth/assets/123810091/255940c3-c31b-4ffe-a655-d3b7d90bf3c5)
 ](url)
 
+# ABSTRACT --->
+
+The Smart Farming System employs a combination of sensors and IOT technology to create an automated monitoring and control system for agricultural  purposes.
+
+The utilization of sensors like ultrasonic,soil moisture,DHT 11 and LDR interfaced with a micro controller enables real time data collection on plant growth,soil moisture content,temperature and light intensity.
+
+The system's integration with IOT facilitates remote access to monitor  and manage these parameters.
+
+This system presents a  solution to enhance crop yield by enabling efficient and timely interventions based on accurate environment data.
+
+# SOFTWARE REQUIRED --->
+
+
+
 
 
 

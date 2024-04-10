@@ -72,7 +72,7 @@ LDR:
 
 # PROPOSED SYSTEM --->
 
-The Proposed Mart Farming System integrates various cutting-edge technologies,including soil moisturesensors,ultrasonic sensos,DHT11 sensor,LDR,micro controller and IOT.
+The Proposed Smart Farming System integrates various cutting-edge technologies,including soil moisturesensors,ultrasonic sensos,DHT11 sensor,LDR,micro controller and IOT.
 
 This system aims to automate and optimize crop growth conditions by continously monitoring crucial parameters such as soil moisture levels,plant growth,ambient light and temperature.
 
@@ -81,6 +81,21 @@ The sensors collect real-time data ,which is processed by the micro controller,e
 The incorporation of IOT facilitates remote monitoring and control,allowing farmers to access and manage the farm conditions from anywhere.
 
 Alerts through a buzzer system promptly notify farmers in case of unfavourable conditions,enabling swift interventions and optimizing crop yield.
+
+[
+![image](https://github.com/Maheshreddy1356/Smart-Farming-based-on-IOT-for-efiicient-crop-growth/assets/123810091/b3f4a7c3-edbf-4023-8ae7-fac8b24b3762)
+](url)
+
+# CONCLUSION --->
+
+The Smart Farming System represents a transformative leap in agricultural practices,leveraging advances sensor technologies,IOT integration, and automation to optimize crop growth conditions.
+
+Through precise monitoring of critical parameters and remote accessibility,it offers a proactive solution to the challenges faced by traditional farming methods.
+
+By enabling timely interventions,efficient resource utilization, and data driven decision-making,this system not only enhances crop yield but also contributes towards sustainable and smart farming practices.
+
+Its potential to revolutionize farm management underscores it s significance in ensuring food security while promoting efficiency and sustainability in agriculture.
+
 
 
 

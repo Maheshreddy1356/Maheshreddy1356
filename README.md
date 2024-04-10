@@ -60,6 +60,14 @@ ULTRASONIC SENSOR:
 
 DHT-11 SENSOR:
 
+[
+![image](https://github.com/Maheshreddy1356/Smart-Farming-based-on-IOT-for-efiicient-crop-growth/assets/123810091/cb9fbf25-e6e4-4620-aa4e-d78c27474577)
+](url)
+
+LDR:
+
+
+
 
 
 

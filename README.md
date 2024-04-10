@@ -66,6 +66,24 @@ DHT-11 SENSOR:
 
 LDR:
 
+[
+![image](https://github.com/Maheshreddy1356/Smart-Farming-based-on-IOT-for-efiicient-crop-growth/assets/123810091/d8827133-a7b1-431e-8ce4-da1bf7730be2)
+](url)
+
+# PROPOSED SYSTEM --->
+
+The Proposed Mart Farming System integrates various cutting-edge technologies,including soil moisturesensors,ultrasonic sensos,DHT11 sensor,LDR,micro controller and IOT.
+
+This system aims to automate and optimize crop growth conditions by continously monitoring crucial parameters such as soil moisture levels,plant growth,ambient light and temperature.
+
+The sensors collect real-time data ,which is processed by the micro controller,enabling timely  and precise decision making.
+
+The incorporation of IOT facilitates remote monitoring and control,allowing farmers to access and manage the farm conditions from anywhere.
+
+Alerts through a buzzer system promptly notify farmers in case of unfavourable conditions,enabling swift interventions and optimizing crop yield.
+
+
+
 
 
 

@@ -30,7 +30,13 @@ This system presents a  solution to enhance crop yield by enabling efficient and
 
 [
 ![image](https://github.com/Maheshreddy1356/Smart-Farming-based-on-IOT-for-efiicient-crop-growth/assets/123810091/0cad579a-f50e-41cf-b4c4-0bc010d2f142)
+](url)                                      [
+![image](https://github.com/Maheshreddy1356/Smart-Farming-based-on-IOT-for-efiicient-crop-growth/assets/123810091/faa20694-814f-4140-9b1f-9384816cbff1)
 ](url)
+
+The Arduino Integrated development Environment  or Arduino Software (IDE) -contains a text editor for writing code,a message area,a text console,a toolbar with buttons for common functions and a series menus.
+
+It connects to the Arduino and Genuino hardware to upload programs and communicate with them.
 
 
 

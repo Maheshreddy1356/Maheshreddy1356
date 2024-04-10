@@ -54,6 +54,13 @@ SOIL MOISTURE SENSOR:
 
 ULTRASONIC SENSOR:
 
+[
+![image](https://github.com/Maheshreddy1356/Smart-Farming-based-on-IOT-for-efiicient-crop-growth/assets/123810091/92fbf89b-ba94-4862-9afc-0bbdff16ba0f)
+](url)
+
+DHT-11 SENSOR:
+
+
 
 
 
